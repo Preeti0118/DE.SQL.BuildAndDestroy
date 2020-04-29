@@ -1,1 +1,1 @@
-USE myNewDB
+mysql> use myNewDB;
